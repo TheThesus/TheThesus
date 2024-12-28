@@ -1,6 +1,6 @@
 <h1>Hello! I am <br> Matias! 🤖</h1>
 
-<p>📙 <strong>Academic Background:</strong> I am a Computer Science undergraduate student at UFRPE (4/9).</p>
+<p>📙 <strong>Academic Background:</strong> I am a Computer Science undergraduate student at UFRPE (5/9).</p>
 
 <p>💻 <strong>Development Experience:</strong> I have experience in developing modern web applications using React and Tailwind CSS. My focus is on creating responsive and interactive user interfaces, ensuring an excellent experience for the end user. My expertise includes:</p>
 
