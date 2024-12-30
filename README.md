@@ -19,8 +19,9 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webdevmatias&show_icons=true&theme=compact&hide=html,css">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevmatias&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevmatias&layout=compact&exclude=python">
 </div>
+
 
 <h2>Technologies I study:</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
