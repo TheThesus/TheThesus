@@ -2,38 +2,47 @@
 
 <p>📙 <strong>Academic Background:</strong> I am a Computer Science undergraduate student at UFRPE (5/9).</p>
 
-<p>💻 <strong>Development Experience:</strong> I focus on building modern web applications with the MERN stack (MongoDB, Express, React, Node.js) and have expertise in:</p>
+<p>💻 <strong>Development Experience:</strong> As a full-stack developer, I focus on building scalable, high-performance web applications with a strong foundation in the MERN stack (MongoDB, Express, React, Node.js).</p>
+
+<h2>Technologies I Use:</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="42" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="42" alt="postgresql logo" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="42" alt="nestjs logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=yarn" height="42" alt="yarn logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="tailwindcss logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="42" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=sequelize" height="42" alt="sequelize logo" />
+  <img src="https://skillicons.dev/icons?i=vite" height="42" alt="vite logo" />
+</div>
+
+<br/>
 
 <ul>
-  <li>Reusable and modular components with <strong>React</strong>.</li>
-  <li>API development with <strong>Node.js</strong> and <strong>Express</strong>.</li>
-  <li>Database management with <strong>MongoDB</strong> and <strong>MySQL</strong>.</li>
-  <li>Responsive styling with <strong>Tailwind CSS</strong>.</li>
-  <li>TypeScript and <strong>NestJS</strong> for scalable back-end development.</li>
-  <li>Version control with <strong>Git</strong>.</li>
-  <li>UI/UX design with tools like <strong>Figma</strong>.</li>
+  <li>Building reusable and modular <strong>React</strong> components with a focus on performance and accessibility.</li>
+  <li>Developing RESTful APIs and handling back-end logic using <strong>Node.js</strong> and <strong>Express</strong>.</li>
+  <li>Designing and managing databases with <strong>MongoDB</strong>, <strong>MySQL</strong>, and <strong>PostgreSQL</strong>, optimizing for scalability and efficiency.</li>
+  <li>Styling responsive UIs with <strong>Tailwind CSS</strong> to ensure a seamless experience across devices.</li>
+  <li>Utilizing <strong>TypeScript</strong> for type-safe development and <strong>NestJS</strong> for building scalable and maintainable back-end architectures.</li>
+  <li>Version control and collaborative development with <strong>Git</strong> and GitHub.</li>
+  <li>Creating intuitive and visually appealing UI/UX with tools like <strong>Figma</strong>.</li>
+  <li>Optimizing performance with caching strategies, lazy loading, and server-side rendering (SSR).</li>
+  <li>Working with containerization using <strong>Docker</strong> for efficient environment management.</li>
+  <li>Managing dependencies and scripts with <strong>Yarn</strong>.</li>
 </ul>
 
-<p>🚀 <strong>Continuous Development:</strong> I am always learning new technologies and exploring advanced frameworks like <strong>TypeScript</strong> and <strong>NestJS</strong>.</p>
+<p>🚀 <strong>Continuous Development:</strong> I am always learning new technologies and exploring advanced frameworks like <strong>TypeScript</strong>, <strong>NestJS</strong>, <strong>GraphQL</strong>, and exploring DevOps practices with <strong>Docker</strong>.</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webdevmatias&show_icons=true&theme=compact&hide=HTML,CSS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevmatias&layout=compact&hide=HTML,CSS">
-</div>
-
-<h2>Technologies I Study:</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg"">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
 <h2>Contact Me:</h2>
